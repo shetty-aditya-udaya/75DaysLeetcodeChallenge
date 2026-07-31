@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
