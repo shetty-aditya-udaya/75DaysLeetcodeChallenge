@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
