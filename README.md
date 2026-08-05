@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
