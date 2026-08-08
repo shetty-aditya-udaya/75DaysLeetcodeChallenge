@@ -139,9 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0077-combinations) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
