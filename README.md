@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 ## Hash Table
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
