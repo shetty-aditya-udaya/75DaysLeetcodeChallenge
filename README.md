@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0065-valid-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0065-valid-number) |
 ## Sliding Window
 |  |
 | ------- |
