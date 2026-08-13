@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -154,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0052-n-queens-ii) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
