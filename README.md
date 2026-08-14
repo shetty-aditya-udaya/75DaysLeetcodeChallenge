@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 ## Recursion
 |  |
 | ------- |
