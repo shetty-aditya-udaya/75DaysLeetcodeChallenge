@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0115-distinct-subsequences) |
