@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
