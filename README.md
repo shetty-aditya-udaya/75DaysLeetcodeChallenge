@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
