@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
