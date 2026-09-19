@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
