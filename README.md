@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
