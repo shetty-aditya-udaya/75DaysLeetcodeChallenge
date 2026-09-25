@@ -272,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
