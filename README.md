@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
