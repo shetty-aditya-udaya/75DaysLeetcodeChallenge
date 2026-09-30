@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0065-valid-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0596-classes-with-at-least-5-students) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
