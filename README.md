@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Bracket Sequences
 |  |
 | ------- |
