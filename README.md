@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union-Find
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
