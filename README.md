@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0184-department-highest-salary) |
