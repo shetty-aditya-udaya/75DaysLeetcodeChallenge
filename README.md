@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0904-fruit-into-baskets](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0904-fruit-into-baskets](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Recursion
 |  |
 | ------- |
