@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0912-sort-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
 ## Depth-First Search
 |  |
 | ------- |
