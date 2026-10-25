@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0075-sort-colors) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0860-lemonade-change) |
