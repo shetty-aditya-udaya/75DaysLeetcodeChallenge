@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
