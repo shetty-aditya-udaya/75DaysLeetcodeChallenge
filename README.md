@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1407-top-travellers) |
+| [1517-find-users-with-valid-e-mails](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
 | [1965-employees-with-missing-information](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1965-employees-with-missing-information) |
 ## Bracket Sequences
 |  |
