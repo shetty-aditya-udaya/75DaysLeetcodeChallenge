@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -352,4 +353,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shetty-aditya-udaya/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
