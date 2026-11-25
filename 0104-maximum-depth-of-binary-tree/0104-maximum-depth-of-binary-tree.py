@@ -5,18 +5,26 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def solve(self, node):
-        # 1. Base case: an empty subtree has height 0
-        if node is None:
-            return 0
-        
-        # 2. Recurse on left and right
-        leftHeight  = self.solve(node.left)
-        rightHeight = self.solve(node.right)
-        
-        # 3. Current node’s height = 1 + taller subtree
-        return 1 + max(leftHeight, rightHeight)
-
     def maxDepth(self, root: TreeNode | None) -> int:
-        return self.solve(root)
+        if root is None:
+            return 0
+
+        queue = deque([])
+        height = 0
+        queue.append(root)
+
+        while len(queue) != 0:
+            level_size = len(queue)
+            height += 1
+
+            for _ in range(level_size):
+                e = queue.popleft()
+
+                if e.left is not None:
+                    queue.append(e.left)
+                if e.right is not None:
+                    queue.append(e.right)
+
+        return height
+
         
